@@ -12,7 +12,7 @@
 - 🏦 I'm a Computer Science student at SRM University AP.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 -
-- 💻 I use daily **.c**, **.cpp**, **.py**,  **.sql**
+- 💻 I use daily **.sh**, **.linux**, **.py**,  **.kubernetes**
 - 📖 I am currently watching **Mindhunter** 
 - 💬 Talk to me about cricket, python, database,
 - 👯 We can connect to play some games of Chess ♟
