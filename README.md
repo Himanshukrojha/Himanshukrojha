@@ -14,7 +14,7 @@
 -
 - 💻 I use daily **.sh**, **.linux**, **.py**,  **.kubernetes**
 - 📖 I am currently watching **Mindhunter** 
-- 💬 Talk to me about cricket, python, database,
+- 💬 Talk to me about cricket, cloud, devops,
 - 👯 We can connect to play some games of Chess ♟
 - 🧑‍💻 Tech I work on :
 
